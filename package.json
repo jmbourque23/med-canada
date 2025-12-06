@@ -1,0 +1,9 @@
+{
+  "name": "med-canada-functions",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "stripe": "^14.0.0",
+    "resend": "^3.2.0"
+  }
+}
